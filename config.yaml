@@ -1,0 +1,14 @@
+database:
+  mysql:
+    mysql_host: localhost
+    mysql_user: root
+    mysql_password: root
+    mysql_port: 3306
+    mysql_db_name: telecom
+
+  postgres:
+    postgres_host: localhost
+    postgres_user: postgres
+    postgres_password: postgres
+    postgres_port: 5432
+    postgres_db_name: telecom
